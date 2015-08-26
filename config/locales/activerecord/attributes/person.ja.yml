@@ -1,0 +1,8 @@
+ja:
+  activerecord:
+    attributes:
+      person:
+        name: 名前
+        email: メールアドレス
+        profile_text: 自己紹介文
+        profile_image: プロフィール画像

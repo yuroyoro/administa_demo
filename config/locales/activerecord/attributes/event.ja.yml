@@ -1,0 +1,13 @@
+ja:
+  activerecord:
+    attributes:
+      event:
+        title: タイトル
+        start_at: 開始日時
+        end_at: 終了日時
+        place: 場所
+        owner: 主催者
+        owner_id: 主催者
+        participants: 人数
+        description: 説明
+        published: 公開

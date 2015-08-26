@@ -1,0 +1,6 @@
+ja:
+  activerecord:
+    models:
+      event: "イベント"
+      person: "参加者"
+      user: "ユーザー"
