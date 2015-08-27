@@ -10,7 +10,7 @@ GIT
 
 GIT
   remote: https://github.com/yuroyoro/administa
-  revision: 558d7f05d00ca966dc502543fd399b5325bc3f7b
+  revision: e701ff693765c129dda7e1c71b983cbd09d24a3c
   specs:
     administa (0.0.1)
       rails (>= 3.2, < 5.0)
